@@ -1,1 +1,3 @@
 # git_test
+Entiendo repoco de git, la verdad....
+Hola Odin Project!
